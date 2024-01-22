@@ -13,11 +13,11 @@ WeatherApp is a simple and intuitive weather application that provides real-time
 
 - OpenWeatherMap API is used to get weather information (temperature, type of weather, wind speed, humidity and clouds)
 - Real-time Weather Data: Get up-to-date weather information for any location worldwide.
-- Location-Based: Asks user to Grant Access to their location to detect and display weather information based on the user's location.
-- Custom Locations: Search city to get weather conditions of that particular city.
+- Location-Based: Asks users to Grant Access to their location to detect and display weather information based on the user's location.
+- Custom Locations: Search the city to get the weather conditions of that particular city.
 - Responsive Design: Works seamlessly on desktop, tablet, and mobile devices.
 - User-Friendly Interface: Clean and intuitive design for a seamless user experience.
-- Changes Background Image according to the type of weather a particular area.
+- Changes Background Image according to the type of weather in a particular area.
 
 
 
