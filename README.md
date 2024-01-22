@@ -17,7 +17,7 @@ WeatherApp is a simple and intuitive weather application that provides real-time
 - Custom Locations: Search the city to get the weather conditions of that particular city.
 - Responsive Design: Works seamlessly on desktop, tablet, and mobile devices.
 - User-Friendly Interface: Clean and intuitive design for a seamless user experience.
-- Changes Background Image according to the type of weather in a particular area.
+- Changes the Background Image according to the type of weather in a particular area.
 
 
 
