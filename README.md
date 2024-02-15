@@ -1,5 +1,5 @@
 
-# Weather-App
+# Drizzle Weather-App
 WeatherApp is a simple and intuitive weather application that provides real-time weather data for locations worldwide.
 
 
